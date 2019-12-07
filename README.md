@@ -1,10 +1,8 @@
 # GmodJunglebook
-Public Works Code For Gmod.
-This is where i puke out code. 
-I will not fix any errors with my code cuse im just dat lazy. 
+Publi Freeware Works Code For Gmod.
+This is where i puke out rando code
+I will not fix any errors with my code consider this a lua graveyard.  
 This is all open source code so its a all u can eat buffe of code just give me credit i guessz. 
->Ur wifus are trash &
->dank memz are welcomeD.
-> ͡(° ͜ʖ ͡°)
+> ͡(° ͜ʖ ͡°) <
 
-*Update 2018* All work for modeling and gmod lua in general is on hold until further notice [Due to tech college :C]
+
